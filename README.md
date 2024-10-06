@@ -3,9 +3,9 @@ Introduction:
 
 This is a simple command-line Rock, Paper, Scissors game built in Python. The game is a classic hand game where players choose between "Rock," "Paper," or "Scissors" to compete against a computer or another player. The game follows these rules:
 
-Rock beats Scissors
-Scissors beats Paper
-Paper beats Rock
+Rock beats Scissors 
+Scissors beats Paper 
+Paper beats Rock 
 
 Features:
 
